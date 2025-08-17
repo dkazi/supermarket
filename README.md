@@ -25,4 +25,5 @@ cd supermarket
 ```
 
 2. Run the program:
+
    python main.py
